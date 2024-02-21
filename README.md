@@ -2,10 +2,13 @@
 This project aimed to develop a system for movie clustering and rating prediction to enhance content organization and user experience. 
 
 Technical Skills: 
+
 Python, Pandas, Scikit-learn, K-Means Clustering, Hierarchical Clustering, Linear Regression, Random Forest, Principal Component Analysis (PCA)
 
 Project Type: Academic project for Data Mining Course
+
 Project Duration: 3 months (October 2023 - December 2023)
+
 
 Project Description:
 
