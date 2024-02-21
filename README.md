@@ -1,9 +1,10 @@
 # Movie-Clustering-and-Rating-Prediction-for-Content-Organization
 This project aimed to develop a system for movie clustering and rating prediction to enhance content organization and user experience. 
 
+
 Technical Skills: 
 
-Python, Pandas, Scikit-learn, K-Means Clustering, Hierarchical Clustering, Linear Regression, Random Forest, Principal Component Analysis (PCA)
+Python, Pandas, Scikit-learn, K-Means Clustering, Hierarchical Clustering, Linear Regression, Losso Regression, Ridge Regression, Random Forest, Principal Component Analysis (PCA).
 
 Project Type: Academic project for Data Mining Course
 
@@ -32,7 +33,9 @@ Data:
 <img width="953" alt="image" src="https://github.com/Saravanan-Arumugam3/Movie-Clustering-and-Rating-Prediction-for-Content-Organization/assets/128452325/c5b0d4b6-f47b-4167-82a9-f7c9f249c437">
 
 
+
 Exploratory Data Analysis:
+
 
 ![image](https://github.com/Saravanan-Arumugam3/Movie-Clustering-and-Rating-Prediction-for-Content-Organization/assets/128452325/978d7e46-1ab1-412c-9468-7e4f19265acb)
 
@@ -69,8 +72,12 @@ Conclusion:
 
 The project successfully implemented movie clustering and rating prediction. While linear models exhibited similar performance with limited PCA impact, Random Forest offered superior accuracy at the cost of higher computational burden. K-Means clustering emerged as the preferred choice for efficiency with large datasets.
 
-![image](https://github.com/Saravanan-Arumugam3/Movie-Clustering-and-Rating-Prediction-for-Content-Organization/assets/128452325/5c6e6675-20c5-40c7-b877-d91f3d303562)
+
+<img width="937" alt="image" src="https://github.com/Saravanan-Arumugam3/Movie-Clustering-and-Rating-Prediction-for-Content-Organization/assets/128452325/90f65ae9-e829-4c76-ad8f-d4ef9cd6667f">
+
+
 
 Future Scope:
+
 Incorporating textual features through Natural Language Processing (NLP) can potentially improve rating prediction models.
 Exploring more complex clustering models might capture intricate relationships between movies for enhanced content organization.
